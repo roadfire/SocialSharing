@@ -21,6 +21,7 @@
 		035BEADA18AD3A2B00A0E8CC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 035BEABC18AD3A2B00A0E8CC /* UIKit.framework */; };
 		035BEAE218AD3A2B00A0E8CC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 035BEAE018AD3A2B00A0E8CC /* InfoPlist.strings */; };
 		035BEAE418AD3A2B00A0E8CC /* SocialSharingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 035BEAE318AD3A2B00A0E8CC /* SocialSharingTests.m */; };
+		035BEAF018AD409800A0E8CC /* roadfire-icon-square-200.png in Resources */ = {isa = PBXBuildFile; fileRef = 035BEAEF18AD409800A0E8CC /* roadfire-icon-square-200.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		035BEADF18AD3A2B00A0E8CC /* SocialSharingTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SocialSharingTests-Info.plist"; sourceTree = "<group>"; };
 		035BEAE118AD3A2B00A0E8CC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		035BEAE318AD3A2B00A0E8CC /* SocialSharingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialSharingTests.m; sourceTree = "<group>"; };
+		035BEAEF18AD409800A0E8CC /* roadfire-icon-square-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "roadfire-icon-square-200.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		035BEABE18AD3A2B00A0E8CC /* SocialSharing */ = {
 			isa = PBXGroup;
 			children = (
+				035BEAEF18AD409800A0E8CC /* roadfire-icon-square-200.png */,
 				035BEAC718AD3A2B00A0E8CC /* RFSAppDelegate.h */,
 				035BEAC818AD3A2B00A0E8CC /* RFSAppDelegate.m */,
 				035BEACA18AD3A2B00A0E8CC /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				035BEAD118AD3A2B00A0E8CC /* Images.xcassets in Resources */,
 				035BEAC318AD3A2B00A0E8CC /* InfoPlist.strings in Resources */,
+				035BEAF018AD409800A0E8CC /* roadfire-icon-square-200.png in Resources */,
 				035BEACC18AD3A2B00A0E8CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -16,7 +16,7 @@
 
 - (IBAction)share:(id)sender
 {
-    NSString *text = @"How to add Facebook/Twitter sharing to an iOS app";
+    NSString *text = @"How to add Facebook and Twitter sharing to an iOS app";
     NSURL *url = [NSURL URLWithString:@"http://roadfiresoftware.com/blog/"];
     UIImage *image = [UIImage imageNamed:@"roadfire-icon-square-200"];
     
